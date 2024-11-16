@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprendendo.Test", "Aprendendo.Test\Aprendendo.Test.csproj", "{CE3650A1-B4BA-422B-BAC0-5900005D8F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprendendo", "Aprendendo\Aprendendo.csproj", "{6202C043-C429-4C71-8229-E80AC6A73640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3650A1-B4BA-422B-BAC0-5900005D8F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3650A1-B4BA-422B-BAC0-5900005D8F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3650A1-B4BA-422B-BAC0-5900005D8F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3650A1-B4BA-422B-BAC0-5900005D8F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6202C043-C429-4C71-8229-E80AC6A73640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6202C043-C429-4C71-8229-E80AC6A73640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6202C043-C429-4C71-8229-E80AC6A73640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6202C043-C429-4C71-8229-E80AC6A73640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
